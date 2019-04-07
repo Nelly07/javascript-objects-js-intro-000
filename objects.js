@@ -10,6 +10,6 @@ function updatePlaylist(playlist, Christina, Genie){
 }
 
 function removeFromPlaylist(playlist,BritneySpears){
-  delete playlist.BritneySpears;
+  delete playlist[BritneySpears];
   return playlist;
 }
