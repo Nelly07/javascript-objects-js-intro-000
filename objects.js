@@ -1,7 +1,7 @@
 var playlist={
   BritneySpears:'crazy',
   BackstreetBoys:'everybody'
-  Nsync:'promise'
+  nsync:'promise'
 }
 function updatePlaylist(playlist,'Christina','Genie'){
   return playlist;
