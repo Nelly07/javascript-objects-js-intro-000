@@ -8,7 +8,7 @@ function updatePlaylist(playlist, Christina, Genie){
   playlist[Christina]=Genie;
   return playlist;
 }
-function removeFromPlaylist(playlist,NSync){
+function removeFromPlaylist(NSync,promise){
   delete playlist.NSync;
   return playlist;
 }
