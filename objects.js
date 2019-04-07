@@ -9,7 +9,7 @@ function updatePlaylist(playlist, Christina, Genie){
   return playlist;
 }
 
-function removeFromPlaylist(playlist,NSync){
-  delete playlist.NSync;
+function removeFromPlaylist(playlist,Christina){
+  delete playlist.Christina;
   return playlist;
 }
