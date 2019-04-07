@@ -4,5 +4,5 @@ var playlist={
   nsync:'promise'
 
 function updatePlaylist(playlist, 'Christina', 'Genie'){
-  return playlist;
+  return playlist.Christina='Genie';
 }
