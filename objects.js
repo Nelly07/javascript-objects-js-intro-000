@@ -3,6 +3,6 @@ var playlist={
   BackstreetBoys:'everybody',
   nsync:'promise'
 
-function updatePlaylist(playlist,Christina,Genie){
+function updatePlaylist(playlist, 'Christina', 'Genie'){
   return playlist;
 }
