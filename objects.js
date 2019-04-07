@@ -1,18 +1,14 @@
 var playlist={
-  BritneySpears:'crazy',
-  BackstreetBoys:'everybody',
-  NSync:'promise'
+  BritneySpears:'"crazy",
+  BackstreetBoys:"everybody",
+  NSync:"promise"
 }
 
 function updatePlaylist(playlist, Christina, Genie){
   playlist[Christina]=Genie;
   return playlist;
 }
-var playlist={
-  BritneySpears:'crazy',
-  BackstreetBoys:'everybody',
-  NSync:'promise'
-}
+
 function removeFromPlaylist(playlist,NSync){
   delete playlist.NSync;
   return playlist;
