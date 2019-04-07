@@ -1,5 +1,5 @@
 var playlist={
-  Britney Spears:'crazy',
+  BritneySpears:'crazy',
   BackstreetBoys:'everybody'
   NSync:'promise'
 }
