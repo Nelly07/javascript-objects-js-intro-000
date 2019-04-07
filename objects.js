@@ -4,5 +4,5 @@ var playlist={
   NSync:'promise'
 }
 function updatePlaylist(playlist,'Christina','Genie'){
-  return playlist;s
+  return playlist;
 }
